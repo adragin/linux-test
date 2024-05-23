@@ -1,4 +1,4 @@
-# linux-test
+# Readme для тестового репозитория "linux-test"
 test repository for GIT lesson  
 новая строка
 

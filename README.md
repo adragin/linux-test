@@ -1,2 +1,8 @@
 # linux-test
-test repository for GIT lesson
+test repository for GIT lesson  
+новая строка
+
+Новый абзац
+
+## Заголовок второго уровня
+**жирный текст**, *курсив*, а это **_жирный курсив_** 
